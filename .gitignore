@@ -1,0 +1,10 @@
+__pycache__/
+*.xlsx
+*.pyc
+sheet.csv
+dashboard.html
+data.js
+site/
+start-dashboard.cmd
+build_report.py
+build_dashboard.py
